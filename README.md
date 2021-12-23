@@ -3,8 +3,9 @@
 - Sou um estudante de Programação que está criando um Repositório para seus projetos.
 - Sou estudante da Trybe(https://www.betrybe.com/), uma grande escola de programação em acensão.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioFLS&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=MarioFLS&show_icons=true&theme=dark">
+</p>
 
 
 Esse Repositório vai conter meus projetos que atualmente se limitam a front-end. Utilizando das **linguagens de marcação HTML e CSS**.
@@ -18,4 +19,5 @@ Claro, imagino um dia poder abrir um portefólio a partir do refinamento dos meu
  
 
 - Hoje é dia (22/12/2021) - Talvez você esteja vendo isto muito cedo. Mas isso é bom, pois vai poder me acompanhar nessa jornada! ⚔️
+
 
