@@ -2,7 +2,7 @@
 <h3 align="center">Sou um aspirante a desenvolvedor FrontEnd!!!</h3>
 
 - Sou um estudante de Programação que está criando um Repositório para seus projetos.
-- Sou estudante da Trybe(https://www.betrybe.com/), curso focado em Desenvolvimento Web FullStack.
+- Sou estudante da [Trybe](https://www.betrybe.com/), curso focado em Desenvolvimento Web FullStack.
 - Email para contato: mariofernandolsatos@gmail.com
 
 <p align="center">
