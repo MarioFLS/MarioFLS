@@ -16,20 +16,9 @@ Esse é um breve resumo sobre mim,
 
 Sempre tive contato com a tecnologia, e decidi entrar de cabeça nesse mundo como estudante da Trybe em desenvolvimento Web, pela turma XP ~ (Uma Parceria da XP.Inc com a Trybe). 
 
-### Esse Repositório é onde se encontra meus projetos feitos no curso e projetos pessoais!
-
-Atualmente estou estudando a área de FRONT-END, tendo conhecimento nas tecnologias:
-
-- HTML / CSS
-- JavaScript
-- React
-- React Router v5 
-- Redux
-- Testes unitários | Jest
-- React Testing Library (RTL)
-
 Estou sempre buscando aprender e expandir meu conhecimento. Atualmente tenho estudado também a linguagem C#, mas ainda estou em aprendizado.
 
+### Esse Repositório é onde se encontra meus projetos feitos no curso e projetos pessoais!
 
 <h3 align="center"> Conecte-se comigo:</h3>
 
