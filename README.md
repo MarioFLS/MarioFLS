@@ -32,7 +32,7 @@ Estou sempre buscando aprender e expandir meu conhecimento. Atualmente tenho est
 
 <h3 align="center"> Meu currículo:</h3>
 <p align="center">
-<a align="center" href="https://drive.google.com/file/d/1WjknrH2kgENzeTNSrVQ_2v61K0EAzE77/view?usp=sharing" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/93008789/176969766-3da0a53d-f2e4-42b0-bc1b-2cc8aa48b32e.png" alt="Icone de Curriculo" height="60" width="70" /> </a>
+<a align="center" href="https://drive.google.com/file/d/1046260PDMhAmn9MFEEs6Mdn-8Zz7n29L/view?usp=sharing" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/93008789/176969766-3da0a53d-f2e4-42b0-bc1b-2cc8aa48b32e.png" alt="Icone de Curriculo" height="60" width="70" /> </a>
 </p>
 
 
