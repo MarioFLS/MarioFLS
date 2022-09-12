@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋🏽, Seja Bem-Vindo </h1>
 <h3 align="center">Sou um Desenvolvedor FullStack!!!</h3>
 
-- Sou um estudante de Programação que está criando um Repositório para seus projetos.
-- Sou estudante da [Trybe](https://www.betrybe.com/), curso focado em Desenvolvimento Web FullStack.
 - Email para contato: mariofernandolsatos@gmail.com
 
 <p align="center">
