@@ -1,22 +1,15 @@
 <h1 align="center">Olá 👋🏽, Seja Bem-Vindo </h1>
 <h3 align="center">Sou um Desenvolvedor FullStack!!!</h3>
 
-- Email para contato: mariofernandolsatos@gmail.com
-
-<p align="center">
-  <img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=MarioFLS&show_icons=true&theme=dark">
-</p>
-
-
 ## Sobre
 
 Esse é um breve resumo sobre mim,
 
-Sempre tive contato com a tecnologia, e decidi entrar de cabeça nesse mundo como estudante da Trybe em desenvolvimento Web, pela turma XP ~ (Uma Parceria da XP.Inc com a Trybe). 
+Sempre tive contato com a tecnologia, e decidi entrar de cabeça nesse mundo atualmente sou um dev fullStack mas como uma paixão pelo BackEnd! 
 
-Estou sempre buscando aprender e expandir meu conhecimento. Atualmente tenho estudado também a linguagem C#, mas ainda estou em aprendizado.
+Estou sempre buscando aprender e expandir meu conhecimento. Atualmente tenho estudado também a linguagem C# e Java, mas ainda estou em aprendizado.
 
-### Esse Repositório é onde se encontra meus projetos feitos no curso e projetos pessoais!
+- Email para contato: mariofernandolsatos@gmail.com
 
 
 <h3 align="center">Linguagens, Ferramentas e Framework:</h3>
@@ -46,4 +39,7 @@ Estou sempre buscando aprender e expandir meu conhecimento. Atualmente tenho est
 <a align="center" href="https://drive.google.com/file/d/1X3zWiCC9fAqTK9xajSwHGq_ITJGKJJP7/view?usp=sharing" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/93008789/176969766-3da0a53d-f2e4-42b0-bc1b-2cc8aa48b32e.png" alt="Icone de Curriculo" height="60" width="70" /> </a>
 </p>
 
+<p align="center">
+  <img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=MarioFLS&show_icons=true&theme=dark">
+</p>
 
