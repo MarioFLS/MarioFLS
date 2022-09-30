@@ -1,11 +1,10 @@
 <h1 align="center">Olá 👋🏽, Seja Bem-Vindo </h1>
-<h3 align="center">Sou um Desenvolvedor FullStack!!!</h3>
 
 ## Sobre
-
+<h3 align="center"> Sou um Desenvolvedor FullStack!!!</h3>
 Esse é um breve resumo sobre mim,
 
-Sempre tive contato com a tecnologia, e decidi entrar de cabeça nesse mundo atualmente sou um dev fullStack mas como uma paixão pelo BackEnd! 
+Sempre tive contato com a tecnologia, e decidi entrar de cabeça nesse mundo em 2021, atualmente sou um dev fullStack mas como uma paixão pelo BackEnd! 
 
 Estou sempre buscando aprender e expandir meu conhecimento. Atualmente tenho estudado também a linguagem C# e Java, mas ainda estou em aprendizado.
 
