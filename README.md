@@ -1,14 +1,24 @@
-<h1 align="center">Olá 👋🏽, Seja Bem-Vindo </h1>
+<h1 align="center">Olá! Sou o Mario Fernando Desenvolvedor BackEnd</h1>
 
-## Sobre
-<h3 align="center"> Sou um Desenvolvedor FullStack!!!</h3>
 Esse é um breve resumo sobre mim,
 
-Sempre tive contato com a tecnologia, e decidi entrar de cabeça nesse mundo em 2021, atualmente sou um dev fullStack mas como uma paixão pelo BackEnd! 
+Sempre tive contato com a tecnologia, e decidi entrar de cabeça nesse mundo em 2021, atualmente sou um dev BackEnd/FullStack!
 
 Estou sempre buscando aprender e expandir meu conhecimento. Atualmente tenho estudado também a linguagem C# e Java, mas ainda estou em aprendizado.
 
 - Email para contato: mariofernandolsatos@gmail.com
+
+<div>
+<img align="left" width=500 height="400" src="https://user-images.githubusercontent.com/93008789/198698211-5129cecf-3b61-45ff-a727-4b35d3443bbb.gif" alt="Minha Figura" />
+ 
+ <p align="right">
+  <img width="500" height="400" src="https://github-readme-stats.vercel.app/api?username=MarioFLS&show_icons=true&theme=dark">
+</p>
+
+</div>
+
+<div> 
+
 
 
 <h3 align="center">Linguagens, Ferramentas e Framework:</h3>
@@ -26,7 +36,7 @@ Estou sempre buscando aprender e expandir meu conhecimento. Atualmente tenho est
 <a href"https://www.chaijs.com/" target="_blank" rel= "noreferrer"> <img src="https://user-images.githubusercontent.com/93008789/176968754-bc883fd3-42ce-48f8-90d8-7fa84b2cefac.png" alt="Chai" width="40" height=" 40"/> 
 <a href"https://www.typescriptlang.org/" target="_blank" rel= "noreferrer"> <img src="https://user-images.githubusercontent.com/93008789/189359471-8024816a-1857-4148-972a-4fb3873f6979.svg" alt="Chai" width="40" height=" 40"/> 
 </p>
-
+</div>
 <h3 align="center"> Conecte-se comigo:</h3>
 
 <p align="center">
@@ -35,10 +45,6 @@ Estou sempre buscando aprender e expandir meu conhecimento. Atualmente tenho est
 
 <h3 align="center"> Meu currículo:</h3>
 <p align="center">
-<a align="center" href="https://drive.google.com/file/d/1X3zWiCC9fAqTK9xajSwHGq_ITJGKJJP7/view?usp=sharing" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/93008789/176969766-3da0a53d-f2e4-42b0-bc1b-2cc8aa48b32e.png" alt="Icone de Curriculo" height="60" width="70" /> </a>
-</p>
-
-<p align="center">
-  <img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=MarioFLS&show_icons=true&theme=dark">
+<a align="center" href="https://drive.google.com/file/d/1X3zWiCC9fAqTK9xajSwHGq_ITJGKJJP7/view?usp=share_link" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/93008789/176969766-3da0a53d-f2e4-42b0-bc1b-2cc8aa48b32e.png" alt="Icone de Curriculo" height="60" width="70" /> </a>
 </p>
 
