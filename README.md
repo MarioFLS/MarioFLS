@@ -8,11 +8,11 @@ Estou sempre buscando aprender e expandir meu conhecimento. Atualmente tenho est
 
 - Email para contato: mariofernandolsatos@gmail.com
 
-<p align="left">
-<img align="left" width=350 height=300 src="https://user-images.githubusercontent.com/93008789/198698211-5129cecf-3b61-45ff-a727-4b35d3443bbb.gif" alt="Minha Figura" >
+<p align="center">
+<img align="left" width=250 height=250 src="https://user-images.githubusercontent.com/93008789/198698211-5129cecf-3b61-45ff-a727-4b35d3443bbb.gif" alt="Minha Figura" >
  </p>
- <p align="right">
-  <img width="500" height="400" src="https://github-readme-stats.vercel.app/api?username=MarioFLS&show_icons=true&theme=dark">
+ <p align="center">
+  <img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=MarioFLS&show_icons=true&theme=dark">
 </p>
 
 <div> 
