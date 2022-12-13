@@ -41,8 +41,3 @@ Estou sempre buscando aprender e expandir meu conhecimento. Atualmente tenho est
 <a align="center" href="https://www.linkedin.com/in/mario-fernando-lacerda/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/93008789/160024359-0edb6efe-71b3-47b9-b26a-ce21dd12bd1c.svg" alt="Icone do Linkedin" height="50" width="60" /></a> <a  align="center" href="mailto:mariofernandolsantos@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/93008789/160025050-f5f2fe71-6bca-4bad-b194-5868fde5d5dd.svg" alt="Icone do email" height="50" width="60"></a>
 </p>
 
-<h3 align="center"> Meu currículo:</h3>
-<p align="center">
-<a align="center" href="https://drive.google.com/file/d/1X3zWiCC9fAqTK9xajSwHGq_ITJGKJJP7/view?usp=share_link" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/93008789/176969766-3da0a53d-f2e4-42b0-bc1b-2cc8aa48b32e.png" alt="Icone de Curriculo" height="60" width="70" /> </a>
-</p>
-
